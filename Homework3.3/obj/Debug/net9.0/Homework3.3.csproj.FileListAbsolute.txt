@@ -1,0 +1,14 @@
+F:\TeachingHillel\Homework3.1\Homework3.3\bin\Debug\net9.0\Homework3.3.exe
+F:\TeachingHillel\Homework3.1\Homework3.3\bin\Debug\net9.0\Homework3.3.deps.json
+F:\TeachingHillel\Homework3.1\Homework3.3\bin\Debug\net9.0\Homework3.3.runtimeconfig.json
+F:\TeachingHillel\Homework3.1\Homework3.3\bin\Debug\net9.0\Homework3.3.dll
+F:\TeachingHillel\Homework3.1\Homework3.3\bin\Debug\net9.0\Homework3.3.pdb
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.AssemblyInfoInputs.cache
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.AssemblyInfo.cs
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.csproj.CoreCompileInputs.cache
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.dll
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\refint\Homework3.3.dll
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.pdb
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\Homework3.3.genruntimeconfig.cache
+F:\TeachingHillel\Homework3.1\Homework3.3\obj\Debug\net9.0\ref\Homework3.3.dll
